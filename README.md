@@ -1,5 +1,5 @@
 #Program-1
-```
+```assembly
 ;Abstract  :This program multiplies the two 16 bit words in the memory 
            ;location called multiplicand and multiplier . The result is stored in the memory location , Product 
            
