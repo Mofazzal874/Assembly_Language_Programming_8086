@@ -91,6 +91,10 @@ end start ; set entry point and stop the assembler.
 ## Memory Contents:
 ![WIN_20230926_16_12_55_Pro](https://github.com/Mofazzal874/Assembly_Language_Programming_8086/assets/35369040/ea074165-f891-49c7-ab9f-c99d9806abae)
 
+This is the total execution with memory addressing in the left side :
+![WIN_20230926_16_56_03_Pro](https://github.com/Mofazzal874/Assembly_Language_Programming_8086/assets/35369040/85ff4a4a-59ca-4edb-8e86-0c626a79305b)
+
+
 
 # Program-02:(Division)
 
