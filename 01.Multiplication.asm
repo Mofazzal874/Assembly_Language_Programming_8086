@@ -26,7 +26,7 @@ data segment
                           ;convenient to declare product 2 words.
     
     
-    
+    ;variableName dw ?    ;If you don't care what value a data item is initialized to , then you can indicate this with a "?"
     ;The figure in the link
     ;(![WIN_20230926_16_12_55_Pro](https://github.com/Mofazzal874/Assembly_Language_Programming_8086/assets/35369040/ea074165-f891-49c7-ab9f-c99d9806abae))
     ; shows how the data for multiplicand and multiplier will actually be arranged in memory starting from the base of the data(segment base address)
