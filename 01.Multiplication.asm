@@ -1,5 +1,3 @@
-#Program-1
-```
 ;Abstract  :This program multiplies the two 16 bit words in the memory 
            ;location called multiplicand and multiplier . The result is stored in the memory location , Product 
            
@@ -86,22 +84,3 @@ start:
 ends
 
 end start ; set entry point and stop the assembler.
-
-```
-## Memory Contents:
-![WIN_20230926_16_12_55_Pro](https://github.com/Mofazzal874/Assembly_Language_Programming_8086/assets/35369040/ea074165-f891-49c7-ab9f-c99d9806abae)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
